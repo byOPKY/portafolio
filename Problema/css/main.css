@@ -4,7 +4,7 @@
 }
 .banner{
 	background-image: url("../img/header.jpg");
-	background-size: 100%;
+	background-size: 110%;
 	padding: 18% 23%;
 	background-position: center;
 		
@@ -27,6 +27,9 @@ section .banner .titulo .letra-xl{
 .fondo-pink{
 	background-color: #F05F40;
 	padding: 5% 25%;
+}
+#text-pink{
+	color: #F05F40;
 }
 .ico{
 	color: #F05F40;
